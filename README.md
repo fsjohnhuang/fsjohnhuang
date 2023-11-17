@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm John Huang </h1>
+<h3 align="center">🌱A passionate Full-Stack developer with 10+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.</h3>
 
-<!--
-**fsjohnhuang/fsjohnhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "30px"></picture> About me</h2>
 
-Here are some ideas to get you started:
+- 😊 Callme: __He/His__ or __TeamWorker__
+- 🥰 I’m currently learning about computer vision
+- 🔭 I’m currently working on [@meta-ultra/app-router](https://github.com/aliyun/darabonba](https://github.com/meta-ultra/app-router)https://github.com/meta-ultra/app-router).
+ 
+👀 __Check out my GitHub repository:__
+<div>
+  <p>
+    <a href="https://github.com/meta-ultra/app-router.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=meta-ultra&repo=app-router" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
