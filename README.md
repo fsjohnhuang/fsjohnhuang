@@ -9,13 +9,12 @@
  
 👀 __Check out my GitHub repository:__
 <div>
-  <p>
-    <a href="https://github.com/meta-ultra/app-router.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=meta-ultra&repo=app-router" alt="GitHub Stats" height="150"/>
-    </a>
-    <a href="https://github.com/meta-ultra/cache.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=meta-ultra&repo=cache" alt="GitHub Stats" height="150"/>
-    </a>
-  </p>
+  <span>
+    <a href="https://github.com/meta-ultra/app-router.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meta-ultra&repo=app-router" alt="GitHub Stats" style="width: 48%;"/></a>
+  </span>
+ &emsp;
+  <span>
+    <a href="https://github.com/meta-ultra/cache.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meta-ultra&repo=cache" alt="GitHub Stats" style="width: 48%"/></a>
+  </span>
 </div>
 
