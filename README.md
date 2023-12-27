@@ -4,7 +4,7 @@
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "30px"></picture> About me</h2>
 
 - 😊 Callme: __He/His__ or __TeamWorker__
-- 🥰 I’m currently learning about computer vision
+- 🥰 I’m currently learning about ESP32
 - 🔭 I’m currently working on [@meta-ultra/app-router](https://github.com/aliyun/darabonba](https://github.com/meta-ultra/app-router)https://github.com/meta-ultra/app-router).
  
 👀 __Check out my GitHub repository:__
