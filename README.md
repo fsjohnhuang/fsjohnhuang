@@ -5,7 +5,7 @@
 
 - 😊 Callme: __He/His__ or __TeamWorker__
 - 🥰 I’m currently learning about ESP32
-- 🔭 I’m currently working on [@meta-ultra/app-router](https://github.com/aliyun/darabonba](https://github.com/meta-ultra/app-router)https://github.com/meta-ultra/app-router).
+- 🔭 I’m currently working on [@meta-ultra/app-router](https://github.com/meta-ultra/app-router).
  
 👀 __Check out my GitHub repository:__
 <div>
