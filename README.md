@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Huang </h1>
-<h3 align="center">🌱A passionate Full-Stack developer with 10+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, including React, Next.js, GraphQL, TailwindCSS and so forth.</h3>
+<h3 align="left">🌱A passionate Full-Stack developer with 10+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages, including React, Next.js, GraphQL, TailwindCSS and so forth.</h3>
 
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "30px"></picture> About me</h2>
 
